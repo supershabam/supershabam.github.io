@@ -1,13 +1,26 @@
----
-layout: default
-title: Your New Jekyll Site
----
-
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>supershabam</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="css/fontello.css">
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <div class="content">
+      <div class="header">
+        <h1>supershabam</h1>
+      </div>
+      <div class="content">
+        <a class="glow" href="http://twitter.com/supershabam"><i class="icon-twitter"></i></a>
+        <a class="glow" href="http://github.com/supershabam"><i class="icon-github-circled"></i></a>
+        <a class="glow" href="http://www.linkedin.com/in/ihansen"><i class="icon-linkedin-squared"></i></a>
+      </div>
+    </div>
+  </body>
+</html>
