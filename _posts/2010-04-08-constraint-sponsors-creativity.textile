@@ -1,0 +1,11 @@
+---
+layout: post
+---
+How many times have you wanted to say something on Twitter but had to rephrase it because of the 140 character restriction?
+
+I recently tried to tweet a very short story (inspired by "@veryshortstory":http://twitter.com/veryshortstory.) I knew exactly what situation I wanted to portray, but my natural wording exceeded 140 characters. Twitter's size constraint forced me to rethink my story: I dropped unnecessary words; I chose the shortest, most descriptive words; I hit backspace many times.
+
+If Twittter allowed 230 characters, I would have been satisfied with my first version and given no extra thought, but I am much more pleased with the Twitterable version of my story, than my too-long-for-Twitter version.
+
+<blockquote class="twitter-tweet"><p>It was their first kiss. &quot;Goodnight Brent&quot; whispered Sue as she turned and walked inside. There would be no second kiss with Blaine.</p>&mdash; Ian Hansen (@supershabam) <a href="https://twitter.com/supershabam/statuses/11676729758">April 6, 2010</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
